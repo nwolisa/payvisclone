@@ -1,0 +1,45 @@
+body{
+    background-image: url("img/vis-bg.0e7a9c1.jpg");
+}
+
+#container {
+    width: 60%;
+    margin: 10px auto;
+    background: #fff;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+#logoContainer {
+    background-color: gold;
+    padding: 10px;
+}
+
+#logoContainer h2 {
+    text-align: center;
+    color: #008cba;
+}
+
+#logo{
+    text-align: center;
+}
+
+#logo img {
+    width: 120px;
+    height: 120px;
+}
+
+#formContainer {
+    padding: 10px
+}
+
+#formContainer h5{
+    color: orange;
+}
+
+#searchBtn{
+    display: inline-block;
+    padding: 5px;
+    color: #fff;
+    background-color: #008cba;
+}
